@@ -6,3 +6,5 @@ NPM INSTALL
 4. MODIFICAR EL ARCHIVO src/keys.ts
 
 5. Correr la aplicación ejecutando "npm run dev" en la carpeta del server, con powershell
+
+6. Importar las pruebas a postman
