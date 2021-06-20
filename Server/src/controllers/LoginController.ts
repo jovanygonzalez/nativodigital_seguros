@@ -9,6 +9,10 @@ class LoginController {
     /// <param>res</param> variable que contiene los tipos de respuestas que puede de devolver el metodo
     /// <return>Devuelve un arreglo de tipo json con objetos del tipo Usuarios</return>
     /// </summary>
+    /// </summary>
+    /// </summary>
+    /// </summary>
+    /// </summary>
     public async LoginUser(req: Request, res: Response) {
         const SECRET_KEY = 'ñP5nd0r5123456ñ';
 
