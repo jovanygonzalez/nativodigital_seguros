@@ -11,6 +11,6 @@
 
 6. MODIFICAR EL ARCHIVO src/keys.ts
 
-7. Correr la aplicación ejecutando "npm run dev" en la carpeta del server
+7. Correr la aplicación ejecutando "npm run dev" en la carpeta NATIVODIGITAL_SEGUROS
 
 8. Importar las pruebas a postman.
