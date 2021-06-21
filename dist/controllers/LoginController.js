@@ -21,6 +21,10 @@ class LoginController {
     /// <param>res</param> variable que contiene los tipos de respuestas que puede de devolver el metodo
     /// <return>Devuelve un arreglo de tipo json con objetos del tipo Usuarios</return>
     /// </summary>
+    /// </summary>
+    /// </summary>
+    /// </summary>
+    /// </summary>
     LoginUser(req, res) {
         return __awaiter(this, void 0, void 0, function* () {
             const SECRET_KEY = 'ñP5nd0r5123456ñ';
